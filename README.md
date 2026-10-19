@@ -9,10 +9,10 @@
 
 <br/><br/>
 
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/YOUR-NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://connectwithmannan.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/mannankhanzada"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mannankhanzada786@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923162087483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Mannan-khanzada&label=Profile%20Views&color=7C3AED&style=flat-square"/>
@@ -89,6 +89,12 @@ const mannan = {
 <a href="https://github.com/Mannan-khanzada/Finance-Tracker-">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mannan-khanzada&repo=Finance-Tracker-&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/Mannan-khanzada/MaanTech-Resume-Templates">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mannan-khanzada&repo=MaanTech-Resume-Templates&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mannan-khanzada/Portfolio-website">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mannan-khanzada&repo=Portfolio-website&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -102,6 +108,11 @@ const mannan = {
 | 🧲 **[Client Demo Platform](https://github.com/Mannan-khanzada/client-demo-platform)** | Live interactive demos of past projects that turn visitors into leads | MERN, TypeScript |
 | 🏗️ **[Merck Builders](https://github.com/Mannan-khanzada/Merck-Builders-FullStack)** | Full-stack business website for a builders company | JavaScript |
 | 📊 **[Finance Tracker](https://github.com/Mannan-khanzada/Finance-Tracker-)** | Income, expenses and balance tracking with LocalStorage | HTML, CSS, JS |
+| 🧩 **[FolioForge](https://github.com/Mannan-khanzada/MaanTech-Resume-Templates)** | SaaS-style portfolio template gallery: pick one of 20 React templates, customize it live and download a complete Vite + React project as a zip | React, Vite |
+| 🖥️ **[Portfolio Website](https://github.com/Mannan-khanzada/Portfolio-website)** | Dark editorial developer portfolio with GitHub and Vercel project importers and a protected admin panel | Next.js, TypeScript |
+| 🕊️ **[FUAD](https://fuad.care/)** | Online counselling website with a spiritual foundation: services, support packages and counsellor profiles | Website |
+| 👰 **[Alisha Bridal Studio](https://demo-projects-4eja.vercel.app/)** | Luxury bridal couture showroom website with collections and appointment booking | Website |
+| 📄 **[Dynamic Resume Builder](https://dynamic-resume-builder-zeta-ivory.vercel.app/)** | Create a professional resume in minutes | Web App |
 
 <br/>
 
@@ -123,6 +134,9 @@ const mannan = {
 | 🃏 [CSS Hover Cards](https://github.com/Mannan-khanzada/Css-Hover-Cards) | Hover effect cards |
 | 🔮 [Card Blur Effect](https://github.com/Mannan-khanzada/Card-Blur-Effect) | Glassmorphism blur card |
 | 🔐 [Facebook Login Page](https://github.com/Mannan-khanzada/Facebook-login-page) | Pixel-style login page clone |
+| 🪪 [Dynamic Cards](https://github.com/Mannan-khanzada/Dynamic-Cards) | Dynamic card components |
+| 🔘 [Action Button](https://github.com/Mannan-khanzada/Action-Button) | Interactive action button |
+| 👗 [Boutique Landing Page](https://github.com/Mannan-khanzada/Landing-Page) | Boutique website practice project |
 
 </div>
 
